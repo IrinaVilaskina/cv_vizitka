@@ -7,6 +7,16 @@ body {
   justify-content: center;
   align-items: center;
 }
+.item {
+    display: block;
+    unicode-bidi: isolate;
+    font-family: Roboto, sans-serif;
+}
+.items {
+    display: block;
+    unicode-bidi: isolate;
+    font-family: Roboto, sans-serif;
+}
 
 .header {
   margin: 40px 0;
